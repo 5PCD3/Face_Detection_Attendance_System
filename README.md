@@ -1,4 +1,4 @@
-# Face Detection Attendence System
+# Face Detection Attendance System
 
 This project is a Face Recognition System application built using Tkinter for the GUI and OpenCV for capturing and processing images. The application can register new users, login, and logout users based on facial recognition. The system also logs attendance data to an Excel file.
 
@@ -102,5 +102,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-This readme provides a clear and structured guide to set up, use, and contribute to the Face Detection Attendence System project. If you have any questions, feedback, or issues, please feel free to contact at [pcdpcdjbx@gmail.com](mailto:pcdpcdjbx@gmail.com) .
+This readme provides a clear and structured guide to set up, use, and contribute to the Face Detection Attendance System project. If you have any questions, feedback, or issues, please feel free to contact at [pcdpcdjbx@gmail.com](mailto:pcdpcdjbx@gmail.com) .
 
