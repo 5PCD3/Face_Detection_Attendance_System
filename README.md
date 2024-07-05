@@ -102,5 +102,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-This readme provides a clear and structured guide to set up, use, and contribute to the Face Detection Attendence System project. If you have any questions, feedback, or issues, please feel free to [contact Priyangshu Chandra Das](mailto:pcdpcdjbx@gmail.com) the project maintainer.
+This readme provides a clear and structured guide to set up, use, and contribute to the Face Detection Attendence System project. If you have any questions, feedback, or issues, please feel free to contact at [pcdpcdjbx@gmail.com](mailto:pcdpcdjbx@gmail.com) .
 
