@@ -1,3 +1,6 @@
 opencv-python
 face_recognition
 pillow
+tkinter
+pandas
+datetime
